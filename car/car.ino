@@ -20,6 +20,7 @@
 
   Libraries:
   - PID_v1.h: Library for PID control. Available at https://github.com/br3ttb/Arduino-PID-Library
+  authors: huda, Ahmed
 
 
 
